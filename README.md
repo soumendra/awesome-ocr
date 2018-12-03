@@ -12,6 +12,7 @@ A few things I find useful. **Please check back later**.
 1. [paperwork - Personal document manager (Linux/Windows) - https://openpaper.work/](https://gitlab.gnome.org/World/OpenPaperwork/paperwork)
 2. [paperless - Scan, index, and archive all of your paper documents](https://github.com/danielquinn/paperless)
 3. [card.io to Scan credit cards in your mobile app](https://www.card.io/)
+4. [open-paperless - Scan, index, and archive all of your paper documents (acquired by Mayan EDMS) https://openpaperless.com](https://github.com/zhoubear/open-paperless)
 
 # APIs and Products (mostly paid)
 
