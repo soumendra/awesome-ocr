@@ -16,10 +16,15 @@ A few things I find useful. **Please check back later**.
 2. https://www.researchgate.net/publication/321813745_Text_recognition_on_PAN_card_using_template_matching_method
 3. 
 
-# APIs
+# APIs and Products
 
 1. https://cloud.google.com/vision/
 2. https://azure.microsoft.com/en-in/services/cognitive-services/computer-vision/
+3. https://cloud.google.com/functions/docs/tutorials/ocr
+4. https://www.silversparro.com/single-post/2018/02/20/Automated-Document-Classification-using-Deep-Learning-APIs
+5. https://blog.signzy.com/how-we-replaced-humans-in-identity-card-classification-with-our-deep-learning-ai-ae8c6564e338
+6. https://www.idfy.com/products
+7. http://hyperverge.co/bfsi.html ([Demo on YouTube](https://www.youtube.com/watch?v=n4xQsjXd0xc))
 
 # Blogposts and QnA (to be sorted through)
 
