@@ -2,22 +2,18 @@
 
 A few things I find useful. **Please check back later**.
 
-# Init
+# Popular Projects
 
-0. [Tesseract](https://github.com/tesseract-ocr/tesseract)
-1. [Tesseract JS](http://tesseract.projectnaptha.com/)
-2. [card.io to Scan credit cards in your mobile app](https://www.card.io/)
-3. [A collection of resources (including the papers and datasets) of OCR](https://github.com/ZumingHuang/awesome-ocr-resources)
-4. [Extract text information from Aadhaar Card using tesseract-ocr](https://github.com/dilippuri/Aadhaar-Card-OCR)
-5. [PAN Card OCR](https://github.com/dilippuri/PAN-Card-OCR)
+1. [Tesseract](https://github.com/tesseract-ocr/tesseract)
+2. [Tesseract JS](http://tesseract.projectnaptha.com/)
 
-# Lit Review
+# Applications (Open Source)
 
-1. [Towards End-to-end Text Spotting with Convolutional Recurrent Neural Networks](http://openaccess.thecvf.com/content_ICCV_2017/papers/Li_Towards_End-To-End_Text_ICCV_2017_paper.pdf)
-2. https://www.researchgate.net/publication/321813745_Text_recognition_on_PAN_card_using_template_matching_method
-3. 
+1. [paperwork - Personal document manager (Linux/Windows) - https://openpaper.work/](https://gitlab.gnome.org/World/OpenPaperwork/paperwork)
+2. [paperless - Scan, index, and archive all of your paper documents](https://github.com/danielquinn/paperless)
+3. [card.io to Scan credit cards in your mobile app](https://www.card.io/)
 
-# APIs and Products
+# APIs and Products (mostly paid)
 
 1. https://cloud.google.com/vision/
 2. https://azure.microsoft.com/en-in/services/cognitive-services/computer-vision/
@@ -26,6 +22,17 @@ A few things I find useful. **Please check back later**.
 5. https://blog.signzy.com/how-we-replaced-humans-in-identity-card-classification-with-our-deep-learning-ai-ae8c6564e338
 6. https://www.idfy.com/products
 7. http://hyperverge.co/bfsi.html ([Demo on YouTube](https://www.youtube.com/watch?v=n4xQsjXd0xc))
+
+# Lit Review
+
+1. [Towards End-to-end Text Spotting with Convolutional Recurrent Neural Networks](http://openaccess.thecvf.com/content_ICCV_2017/papers/Li_Towards_End-To-End_Text_ICCV_2017_paper.pdf)
+2. https://www.researchgate.net/publication/321813745_Text_recognition_on_PAN_card_using_template_matching_method
+
+# Other awesome-repos
+
+1. [A collection of resources (including the papers and datasets) of OCR](https://github.com/ZumingHuang/awesome-ocr-resources)
+2. [Extract text information from Aadhaar Card using tesseract-ocr](https://github.com/dilippuri/Aadhaar-Card-OCR)
+3. [PAN Card OCR](https://github.com/dilippuri/PAN-Card-OCR)
 
 # Blogposts and QnA (to be sorted through)
 
