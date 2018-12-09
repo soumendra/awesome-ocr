@@ -3,7 +3,7 @@
 3. [Extracting Text from Binary Document Formats using AWS Lambda](https://github.com/skylander86/lambda-text-extractor)
 4. [Receipt scanner extracts information from your PDF or image receipts - built in NodeJS](https://github.com/danschultzer/receipt-scanner)
 5. [OCR engine for all the languages http://kraken.re](https://github.com/mittagessen/kraken)
-6. []()
+6. [Python wrapper to grab text from all the images in a directory and save a subdirectory as text files using Tesseract Engine](https://github.com/prabhakar267/ocr-convert-image-to-text)
 7. []()
 8. []()
 9. []()
