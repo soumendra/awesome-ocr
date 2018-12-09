@@ -18,6 +18,13 @@ A few things I find useful. **Please check back later**.
 4. [open-paperless - Scan, index, and archive all of your paper documents (acquired by Mayan EDMS) https://openpaperless.com](https://github.com/zhoubear/open-paperless)
 5. https://github.com/mre/receipt-parser
 6. https://github.com/isee15/Card-Ocr
+7. [Python and OpenCV scripts to detect digits on a Gas Pump](https://github.com/kazmiekr/GasPumpOCR)
+8. [Deep Learning OCR using TensorFlow and Python](https://nicholastsmith.wordpress.com/2017/10/14/deep-learning-ocr-using-tensorflow-and-python/)
+9. [Extracting Text from Binary Document Formats using AWS Lambda](https://github.com/skylander86/lambda-text-extractor)
+10. [Receipt scanner extracts information from your PDF or image receipts - built in NodeJS](https://github.com/danschultzer/receipt-scanner)
+11. [OCR engine for all the languages http://kraken.re](https://github.com/mittagessen/kraken)
+12. [Python wrapper to grab text from all the images in a directory and save a subdirectory as text files using Tesseract Engine](https://github.com/prabhakar267/ocr-convert-image-to-text)
+
 
 # APIs and Products (mostly paid)
 
@@ -65,6 +72,9 @@ A few things I find useful. **Please check back later**.
 6, https://github.com/MhLiao/TextBoxes_plusplus
 7. https://github.com/emedvedev/attention-ocr
 8. https://github.com/dengdan/seglink
+9. https://github.com/wushilian/CRNN_Attention_OCR_Chinese
+10. https://github.com/DetectionTeamUCAS/R2CNN_Faster-RCNN_Tensorflow
+11. https://github.com/watsonyanghx/CNN_LSTM_CTC_Tensorflow
 
 # Blogposts and QnA (to be sorted through)
 
