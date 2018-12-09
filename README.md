@@ -5,6 +5,7 @@ A few things I find useful. **Please check back later**.
 # Popular Projects
 
 1. [Tesseract](https://github.com/tesseract-ocr/tesseract)
+    - Python wrapper: https://github.com/sirfz/tesserocr
 2. [Tesseract JS](http://tesseract.projectnaptha.com/)
 
 # Applications (Open Source)
@@ -13,6 +14,7 @@ A few things I find useful. **Please check back later**.
 2. [paperless - Scan, index, and archive all of your paper documents](https://github.com/danielquinn/paperless)
 3. [card.io to Scan credit cards in your mobile app](https://www.card.io/)
 4. [open-paperless - Scan, index, and archive all of your paper documents (acquired by Mayan EDMS) https://openpaperless.com](https://github.com/zhoubear/open-paperless)
+5. https://github.com/mre/receipt-parser
 
 # APIs and Products (mostly paid)
 
@@ -34,6 +36,20 @@ A few things I find useful. **Please check back later**.
 1. [A collection of resources (including the papers and datasets) of OCR](https://github.com/ZumingHuang/awesome-ocr-resources)
 2. [Extract text information from Aadhaar Card using tesseract-ocr](https://github.com/dilippuri/Aadhaar-Card-OCR)
 3. [PAN Card OCR](https://github.com/dilippuri/PAN-Card-OCR)
+
+# Document Management Systems
+
+1. https://github.com/sismics/docs
+
+# Extracting (tables?) from PDFs
+
+1. https://github.com/WZBSocialScienceCenter/pdftabextract
+2. https://github.com/jbarlow83/OCRmyPDF
+
+# Synthetic Data Generator
+
+1. https://github.com/Belval/TextRecognitionDataGenerator
+2. https://github.com/Sanster/text_renderer
 
 # Blogposts and QnA (to be sorted through)
 
