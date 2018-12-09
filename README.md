@@ -6,7 +6,9 @@ A few things I find useful. **Please check back later**.
 
 1. [Tesseract](https://github.com/tesseract-ocr/tesseract)
     - Python wrapper: https://github.com/sirfz/tesserocr
+    - Python wrapper: https://github.com/openpaperwork/pyocr
 2. [Tesseract JS](http://tesseract.projectnaptha.com/)
+3. React Native wrapper for tesseract: https://github.com/jonathanpalma/react-native-tesseract-ocr
 
 # Applications (Open Source)
 
@@ -15,6 +17,7 @@ A few things I find useful. **Please check back later**.
 3. [card.io to Scan credit cards in your mobile app](https://www.card.io/)
 4. [open-paperless - Scan, index, and archive all of your paper documents (acquired by Mayan EDMS) https://openpaperless.com](https://github.com/zhoubear/open-paperless)
 5. https://github.com/mre/receipt-parser
+6. https://github.com/isee15/Card-Ocr
 
 # APIs and Products (mostly paid)
 
@@ -37,9 +40,10 @@ A few things I find useful. **Please check back later**.
 2. [Extract text information from Aadhaar Card using tesseract-ocr](https://github.com/dilippuri/Aadhaar-Card-OCR)
 3. [PAN Card OCR](https://github.com/dilippuri/PAN-Card-OCR)
 
-# Document Management Systems
+# Document Management and Search Systems
 
 1. https://github.com/sismics/docs
+2. https://github.com/RD17/ambar
 
 # Extracting (tables?) from PDFs
 
@@ -50,6 +54,17 @@ A few things I find useful. **Please check back later**.
 
 1. https://github.com/Belval/TextRecognitionDataGenerator
 2. https://github.com/Sanster/text_renderer
+
+# Deep Learning in Action
+
+1. https://github.com/weinman/cnn_lstm_ctc_ocr
+2. https://github.com/eragonruan/text-detection-ctpn
+3. https://github.com/bgshih/crnn
+4. https://github.com/tianzhi0549/CTPN
+5. https://github.com/pannous/tensorflow-ocr
+6, https://github.com/MhLiao/TextBoxes_plusplus
+7. https://github.com/emedvedev/attention-ocr
+8. https://github.com/dengdan/seglink
 
 # Blogposts and QnA (to be sorted through)
 
